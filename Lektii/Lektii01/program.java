@@ -1,4 +1,4 @@
-package Lektii;
+package Lektii.Lektii01;
 /**
  * program
  */

@@ -1,5 +1,10 @@
-package Lektii;
 
-public class main {
+/**
+ * program
+ */
+class main {
 
+    public main(String[] args) {
+
+    }
 }
