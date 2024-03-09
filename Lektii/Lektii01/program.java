@@ -2,7 +2,7 @@ package Lektii.Lektii01;
 /**
  * program
  */
-public class program {
+public class program {ЙЙЙЦЦЙ2112
 
     public static void main(String[] args) {
 
@@ -17,5 +17,3 @@ public class program {
 
 	}
 }
-
- 
