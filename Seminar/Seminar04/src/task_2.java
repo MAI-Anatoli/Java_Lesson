@@ -9,7 +9,7 @@ text~num
 позицию num.
 3. Если введено print~num, выводит строку из позиции num в связном
 списке и удаляет её из списка.*/
-public class task02 {
+public class task_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<String> list = new ArrayList<>();

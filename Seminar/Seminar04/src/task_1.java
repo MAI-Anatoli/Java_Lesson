@@ -5,7 +5,7 @@ import java.util.List;
 /* 1) Замерьте время, за которое в ArrayList добавятся 10000 элементов.
 2) Замерьте время, за которое в LinkedList добавятся 10000 элементов.
 Сравните с предыдущим.*/
-public class task01 {
+public class task_1 {
     public static void main(String[] args) {
         List<Integer> list1 = new ArrayList<>();
         List<Integer> list2 = new LinkedList<>();

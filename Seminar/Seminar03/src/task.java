@@ -6,7 +6,7 @@ import java.util.List;
 внутреннего списка содержится название жанра, а на остальных
 позициях - названия книг. Напишите метод для заполнения данной
 структуры.*/
-public class task02 {
+public class task {
     public static void main(String[] args) {
 
         List<List<String>> shopBook = new ArrayList<>();

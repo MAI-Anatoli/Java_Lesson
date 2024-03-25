@@ -7,7 +7,7 @@ import java.util.Stack;
 и выводит на консоль содержимое стэка.
 2) Написать метод, который принимает массив элементов, помещает их в
 очередь и выводит на консоль содержимое очереди.  */
-public class task04 {
+public class task_4 {
     public static void main(String[] args) {
         Integer[] arr = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         arrayAsStack(arr);

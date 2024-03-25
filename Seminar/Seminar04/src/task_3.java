@@ -5,7 +5,7 @@ import java.util.*;
 2. Если введено print, выводит строки так, чтобы последняя введенная
 была первой в списке, а первая - последней.
 3. Если введено revert, удаляет предыдущую введенную строку из памяти */
-public class task03 {
+public class task_3 {
       public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<String> list = new LinkedList<>();
